@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geetank Asati</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **asatigeetank9@gmail.com**
 
